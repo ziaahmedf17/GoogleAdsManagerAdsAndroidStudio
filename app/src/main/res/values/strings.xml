@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Google Ad Manager Mobile Ads - Android</string>
+
+    <string name="app_id_admob">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner_id_admob">/6499/example/banner</string>
+    <string name="interstitial_id_admob">"/6499/example/interstitial"</string>
+    <string name="native_id_admob">/6499/example/native</string>
+</resources>
